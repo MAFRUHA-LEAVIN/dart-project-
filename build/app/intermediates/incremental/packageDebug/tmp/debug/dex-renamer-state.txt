@@ -1,0 +1,4 @@
+#Sun May 31 18:44:26 EEST 2020
+base.0=C\:\\Users\\Tanmoy Murad\\Downloads\\flutter-weather-app-starterkit-master\\flutter-weather-app-starterkit-master\\weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
